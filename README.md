@@ -4,6 +4,7 @@
 
 Prazer! Me chamo Karine Cerqueira Nascimento, tenho 23 anos e sou natural do Espírito Santo. Conclui o ensino médio no IFES, com o curso técnico em Mecânica. Atualmente, sou estudante de Engenharia de Computação na USP São Carlos. Gosto de aprender e explorar novas tecnologias, sempre buscando aprimorar minhas habilidades e desenvolver projetos desafiadores. Aqui no meu GitHub, compartilho algumas das minhas experiências e aprendizados ao longo da minha trajetória acadêmica e profissional.
 
+<!--
 <p align="left">
     <a href="https://github.com/KarineCerqueira?tab=repositories&sort=stargazers">
         <img 
@@ -20,7 +21,7 @@ Prazer! Me chamo Karine Cerqueira Nascimento, tenho 23 anos e sou natural do Esp
         />
     </a>
 </p>
-
+-->
 
 ---
 
