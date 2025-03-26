@@ -27,7 +27,7 @@ Prazer! Me chamo Karine Cerqueira Nascimento, tenho 23 anos e sou natural do Esp
 
 ### 🤖 Linguagens e Tecnologias
 
-<p align="center">
+<p align="left">
     <img 
         alt="Python" 
         title="Python"
