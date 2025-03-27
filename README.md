@@ -108,7 +108,7 @@ Prazer! Me chamo Karine Cerqueira Nascimento, tenho 23 anos e sou natural do Esp
   <img 
     alt="GitHub Stats" 
     height="150" 
-    src="https://github-readme-stats.vercel.app/api?username=KarineCerqueira&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=KarineCerqueira&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=1000" 
   />
   <img 
     alt="Linguagens Mais Usadas" 
